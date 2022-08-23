@@ -14,7 +14,7 @@
     </ul>
     <h1 align="center">Demonstração do Projeto🔎</h1>
         <br>
-        <img src="/img/Calculadora.png">
+        <img src="./img/Calculadora.png">
         <br>
      <p> Veja meu projeto 👉  <a href="" target="blank"> link </a></p>  
  </body>
