@@ -21,7 +21,7 @@ class operacao{
     // operações
     calculo(resp) {
 
-        if(this.result.innerText === "" && this.result.innerText !== "C") {
+        if(this.result.innerText === "" && resp !== "C") {
             if(this.calc.innerText !== "") {
                 this.escolherOP(resp)
             }
