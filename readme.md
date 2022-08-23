@@ -16,7 +16,7 @@
         <br>
         <img src="./img/Calculadora.png">
         <br>
-     <p> Veja meu projeto 👉  <a href="" target="blank"> link </a></p>  
+     <p> Veja meu projeto 👉  <a href="https://nandamsouza.github.io/Calculadora/" target="blank"> link </a></p>  
  </body>
 
 </html>
